@@ -3,10 +3,8 @@
 import static java.lang.System.exit;
 public class Multi  {
         public static void main(String[] args) {
-
 repeat();
         }
-
 
     public static void repeat() {
         while (true) {
@@ -21,9 +19,7 @@ repeat();
             d2.setD(d2.getInput());
             d1.multiply(d2);
 
-
         }
-
     }
 }
 
